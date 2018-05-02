@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Players>
+  <Raz>
+    <Password>1234</Password>
+    <High_Score>6</High_Score>
+  </Raz>
+  <Bar>
+    <Password>123</Password>
+    <High_Score>14</High_Score>
+  </Bar>
+</Players>

@@ -1,0 +1,18 @@
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\bin\Debug\RandomRoulette.exe.config
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\bin\Debug\RandomRoulette.exe
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\bin\Debug\RandomRoulette.pdb
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\obj\Debug\RandomRoulette.csprojResolveAssemblyReference.cache
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\obj\Debug\RandomRoulette.Form1.resources
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\obj\Debug\RandomRoulette.Properties.Resources.resources
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\obj\Debug\RandomRoulette.csproj.GenerateResource.Cache
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\obj\Debug\RandomRoulette.exe
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\obj\Debug\RandomRoulette.pdb
+D:\המסמכים שלי\לימודים רופין\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\bin\Debug\RandomRoulette.exe.config
+D:\המסמכים שלי\לימודים רופין\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\obj\Debug\RandomRoulette.exe
+D:\המסמכים שלי\לימודים רופין\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\obj\Debug\RandomRoulette.pdb
+D:\המסמכים שלי\לימודים רופין\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\bin\Debug\RandomRoulette.exe
+D:\המסמכים שלי\לימודים רופין\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\bin\Debug\RandomRoulette.pdb
+D:\המסמכים שלי\לימודים רופין\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\obj\Debug\RandomRoulette.csprojResolveAssemblyReference.cache
+D:\המסמכים שלי\לימודים רופין\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\obj\Debug\RandomRoulette.Form1.resources
+D:\המסמכים שלי\לימודים רופין\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\obj\Debug\RandomRoulette.Properties.Resources.resources
+D:\המסמכים שלי\לימודים רופין\שנה ג\מתרגל\סמסטר ב\RandomRoulette\RandomRoulette\obj\Debug\RandomRoulette.csproj.GenerateResource.Cache

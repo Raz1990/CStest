@@ -1,0 +1,25 @@
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\2016\C#\סמסטר ב\ClickerGame\ClickerGame\bin\Debug\ClickerGame.exe.config
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\2016\C#\סמסטר ב\ClickerGame\ClickerGame\bin\Debug\ClickerGame.exe
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\2016\C#\סמסטר ב\ClickerGame\ClickerGame\bin\Debug\ClickerGame.pdb
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\2016\C#\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csprojResolveAssemblyReference.cache
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\2016\C#\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.Forms.frmLogin.resources
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\2016\C#\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.Properties.Resources.resources
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\2016\C#\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.GenerateResource.Cache
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\2016\C#\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.exe
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\2016\C#\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.pdb
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\2016\C#\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.frmMain.resources
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\2016\C#\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.Forms.Game.resources
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\bin\Debug\ClickerGame.exe.config
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.exe
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.pdb
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\bin\Debug\ClickerGame.exe
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\bin\Debug\ClickerGame.pdb
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csprojResolveAssemblyReference.cache
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.frmMain.resources
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.Forms.frmLogin.resources
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.Forms.Game.resources
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.Properties.Resources.resources
+C:\Users\Raz\Google Drive\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.GenerateResource.Cache
+D:\המסמכים שלי\לימודים רופין\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\bin\Debug\ClickerGame.exe.config
+D:\המסמכים שלי\לימודים רופין\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.exe
+D:\המסמכים שלי\לימודים רופין\שנה ג\מתרגל\סמסטר ב\ClickerGame\ClickerGame\obj\Debug\ClickerGame.pdb
